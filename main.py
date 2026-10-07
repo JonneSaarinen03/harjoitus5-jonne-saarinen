@@ -21,14 +21,14 @@ def käännyoikealle():
     m2.value(1)
     e1.duty_u16(33000)
     e2.duty_u16(33000)
-    sleep(4)
+    sleep(3)
 
 def käännyvasemmalle():
     m1.value(1)
     m2.value(0)
     e1.duty_u16(33000)
     e2.duty_u16(33000)
-    sleep(4)
+    sleep(3)
 
 def taaksepäin():
     m1.value(0)

@@ -1,0 +1,13 @@
+pysähdy
+taaksepäin
+käännyympäri
+eteenpäin
+käännyoikealle
+eteenpäin
+käännyoikealle
+eteenpäin
+käännyvasemmalle
+eteenpäin
+käännyvasemmalle
+eteenpäin
+pysähdy
